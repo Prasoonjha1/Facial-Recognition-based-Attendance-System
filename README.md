@@ -1,1 +1,12 @@
 # Facial-Recognition-based-Attendance-System
+To run this Face Recognition Application you need a python interpreter. We used a 3.9.9 version.
+After installing that there are some libraries that need to be installed beforehand.
+Python libraries:-
+1. face_recognition
+2. cv2
+3. numpy
+4. pandas
+5. csv
+6. pyqt5
+You can add any image in the database.
+Now you can just run mainwindow.py to run the application.
